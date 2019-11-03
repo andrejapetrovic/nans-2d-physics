@@ -1,0 +1,2 @@
+iz projekta pokrenite klasu app koja je u folderu test, package app
+za lansiranje lopti drag and release mehanizam.
